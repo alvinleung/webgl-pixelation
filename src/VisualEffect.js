@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { Vec2 } from "curtainsjs";
-import { Plane, Curtains } from "react-curtains";
+import { Plane } from "react-curtains";
 
 const basicVs = `
 precision mediump float;
